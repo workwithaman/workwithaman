@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **workwithaman@gmail.com**
 
-- ⚡ My Portfoli **https://aman-singh-portfolio.netlify.app/**
+- ⚡ My Portfoli: **https://aman-singh-portfolio.netlify.app/**
+
+- ⚡ My Linkedin: **https://www.linkedin.com/in/me-aman-singh/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
